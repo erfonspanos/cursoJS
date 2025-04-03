@@ -236,3 +236,4 @@ console.log(bixao instanceof Lobo)
 console.log(Lobo instanceof Mamifero)
 console.log(new Lobo(4, "teste") instanceof Mamifero)
 console.log(new Post("a", "teste") instanceof Lobo)
+
